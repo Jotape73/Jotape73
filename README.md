@@ -34,7 +34,7 @@
 
 **Linguagens e Ferramentas**
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,html,css,react,mysql,php,vscode,java,apache,git)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,html,css,react,mysql,php,vscode,java,git)](https://skillicons.dev)
 
 ---
 
