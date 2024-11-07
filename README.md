@@ -34,11 +34,7 @@
 
 **Linguagens e Ferramentas**
 
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,html,css,react,mysql,php,vscode,git)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,html,css,react,mysql,php,vscode,java,apache,git)](https://skillicons.dev)
 
 ---
 
