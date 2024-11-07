@@ -34,13 +34,14 @@
 
 **Linguagens e Ferramentas**
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,html,css,react,mysql,php,vscode,java,git)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,typescript,nodejs,figma,discord,html,css,react,mysql,php,vscode,java,git)](https://skillicons.dev)
 
 ---
 
 ### 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Jotape73&show_icons=true&theme=radical)
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jotape73&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jotape73&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
 
 ---
 
