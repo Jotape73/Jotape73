@@ -21,23 +21,19 @@
 
 ##
 
-### 🌐 Conecte-se comigo
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-marchi)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jotape73)
-
-##
-
-### 🛠️ Minhas Skills
-
-**Linguagens e Ferramentas**
-
 <div align="center" >
  
 [![Minhas Habilidades](https://skillicons.dev/icons?i=javascript,typescript,nodejs,figma,discord,html,css,react,mysql,php,vscode,java,git)](https://skillicons.dev)
 
  </div>
  
+##
+
+### 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-marchi)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jotape73)
+
 ##
 
 ### 📈 Estatísticas do GitHub
