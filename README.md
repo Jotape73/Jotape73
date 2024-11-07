@@ -2,15 +2,14 @@
 
 ##
 
-### 🧑‍💻 Sobre mim
+### 🧑‍💻 About me
 
 - 🎓 **Formação**: Técnico em Desenvolvimento de Sistemas pela ETEC.
 - 💼 **Atualmente**: Atuo como desenvolvedor mobile, com experiência em diversas ferramentas e tecnologias de desenvolvimento front-end.
-- 🚀 **Objetivo**: Aprofundar conhecimentos e contribuir com projetos desafiadores e inovadores na área de tecnologia.
 
 ##
 
-### 🛠️ Minhas Skills
+### 🛠️ My Skills
 
 **Linguagens e Ferramentas**
 
@@ -29,14 +28,14 @@
  
 ##
 
-### 🌐 Conecte-se comigo
+### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joao-pedro-marchi)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jotape73)
 
 ##
 
-### 📈 Estatísticas do GitHub
+### 📈 
 
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jotape73&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jotape73&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
  | ----------- | ----------- |
